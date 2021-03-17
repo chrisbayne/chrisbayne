@@ -2,10 +2,9 @@
 
 ## :sparkles::flashlight: Hey I'm Chris! :flashlight::sparkles:
 
-</div>
-
  👋 Hey. I'm currently studying software development at British Columbia Technology Institute.
 
+</div>
  
 ## About Me:
 - 🧮 Right now I'm part of a team working on building out a classifieds app that will allow a user to create an account and upload something to sell using Full Stack Javascript which will be hosted on Amazon Web Services using a Dynamo database.
