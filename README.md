@@ -13,5 +13,5 @@
 - ⚡ Fun fact: I've been to Japan twice and it has always felt like a second home to me. 
 
 ## Want to talk?
-- 🐶 I'm always up for meeting new people! Feel free to send me an email at chriss.bayne@gmail.com. Maybe I can help you name your new dog!
+- 🐶 I'm always up for meeting new people! Feel free to send me an email at chriss.bayne@gmail.com
 - Alternatively, you can check out my linkedin profile here - https://www.linkedin.com/in/chris-bayne-380941ab/
