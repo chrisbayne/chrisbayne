@@ -7,7 +7,7 @@
 </div>
  
 ## About Me:
-- 🧮 Right now I'm part of a team working on building out a classifieds app that will allow a user to create an account and upload something to sell using Full Stack Javascript which will be hosted on Amazon Web Services using a Dynamo database.
+- 🧮 I'm part of a two person team working on an ongoing passion project designing and developing a web application using React and Ruby on Rails that allows denim enthusiasts to track the usage and lifecycle of their garments by keeping exact details of wear, purchase date, and the number of washes.
 - 🎋 Recently, I've devoted most of my time to learning the fundamentals of React as a framework, while taking time to tweak my personal portfolio.
 - 🇯🇵 One day I'd like to build my own language translation app with a few special features ;)
 - ⚡ Fun fact: I've been to Japan twice and it has always felt like a second home to me. 
