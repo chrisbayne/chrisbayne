@@ -2,7 +2,7 @@
 
 ## :sparkles::flashlight: Hey I'm Chris! :flashlight::sparkles:
 
- 👋 Hey. I'm currently studying software development at British Columbia Technology Institute.
+ 👋 Hey. I've recently graduated from studying software development at the British Columbia Technology Institute.
 
 </div>
  
